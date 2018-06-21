@@ -1,7 +1,4 @@
 <?php
-/*
-C0ded by SugiCode <3
-*/
 function banner(){
 system('cls') or system('clear');
 print "============================================\n";
